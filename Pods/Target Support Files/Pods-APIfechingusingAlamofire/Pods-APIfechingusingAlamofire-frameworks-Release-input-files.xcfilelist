@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-APIfechingusingAlamofire/Pods-APIfechingusingAlamofire-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
